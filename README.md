@@ -1,5 +1,7 @@
 # Olived
 
+https://olived.app
+
 > Olived is twitch live recorder, it can record, download and archive twitch live videos to watch them later in the future.
 
 ## Intro
@@ -10,7 +12,7 @@ This software can record with the best video quality, from 720p to 4K! If your n
 
 ## Manual
 
-You can check on the usage video at https://www.twitch.com/@OlivedApp or see the instructions below.
+You can check on the usage video at https://www.youtube.com/@OlivedApp or see the instructions below.
 
 Steps​
 1. Download the software at https://olived.app/
